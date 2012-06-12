@@ -1,0 +1,18 @@
+GIT
+  remote: git://github.com/Inuits/puppet-apache.git
+  ref: master
+  sha: 232928f2c650161fa3e62e1b76dbdc29c199ba56
+  specs:
+    apache (0.0.1)
+
+GIT
+  remote: git://github.com/puppetlabs/puppetlabs-stdlib.git
+  ref: master
+  sha: e299ac6212b0468426f971b216447ef6bc679149
+  specs:
+    stdlib (0.0.1)
+
+DEPENDENCIES
+  apache (>= 0)
+  stdlib (>= 0)
+
