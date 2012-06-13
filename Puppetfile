@@ -7,3 +7,6 @@ mod 'apache',
 mod 'dhcp',
   :git => 'git://github.com/raskas/puppet-dhcp.git'
 
+mod 'concat',
+  :git => 'git://github.com/ripienaar/puppet-concat.git'
+
