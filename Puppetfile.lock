@@ -12,7 +12,15 @@ GIT
   specs:
     stdlib (0.0.1)
 
+GIT
+  remote: git://github.com/raskas/puppet-dhcp.git
+  ref: master
+  sha: 77396839dadcf94955574f21b2020c2fa2dcf2d1
+  specs:
+    dhcp (0.0.1)
+
 DEPENDENCIES
   apache (>= 0)
+  dhcp (>= 0)
   stdlib (>= 0)
 
