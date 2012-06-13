@@ -19,8 +19,16 @@ GIT
   specs:
     dhcp (0.0.1)
 
+GIT
+  remote: git://github.com/ripienaar/puppet-concat.git
+  ref: master
+  sha: 99f3eb83f77ae68664eb2b346df4e4db6f21f1b3
+  specs:
+    concat (0.0.1)
+
 DEPENDENCIES
   apache (>= 0)
+  concat (>= 0)
   dhcp (>= 0)
   stdlib (>= 0)
 
