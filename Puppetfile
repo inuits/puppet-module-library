@@ -10,3 +10,8 @@ mod 'dhcp',
 mod 'concat',
   :git => 'git://github.com/ripienaar/puppet-concat.git'
 
+mod 'hiera',
+  :git => 'git://github.com/KrisBuytaert/puppet-hiera.git'
+
+mod 'graphite',
+  :git => 'git://github.com/KrisBuytaert/puppet-graphite.git'
