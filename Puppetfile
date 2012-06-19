@@ -10,3 +10,6 @@ mod 'dhcp',
 mod 'concat',
   :git => 'git://github.com/ripienaar/puppet-concat.git'
 
+mod 'puppetdbquery',
+  :git => 'git@github.com:dalen/puppet-puppetdbquery.git'
+
