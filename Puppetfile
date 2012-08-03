@@ -43,8 +43,9 @@ mod 'solr',
 mod 'ganglia',
     :git => 'git://github.com/KrisBuytaert/puppet-ganglia.git'
 
-#mod 'pulp',
-#    :git => 'git@github.com:KrisBuytaert/puppet-pulp.git'
+mod 'pulp',
+    :git => 'git://github.com/KrisBuytaert/puppet-pulp.git',
+    :ref => 'pulp'
 
 mod 'logstash',
     :git => 'git://github.com/KrisBuytaert/puppet-logstash.git'
@@ -78,4 +79,8 @@ mod 'logster',
 
 mod 'wowza',
     :git => 'git://github.com/KrisBuytaert/puppet-wowza.git'
+
+mod 'icinga',
+    :git => 'https://github.com/arioch/puppet-icinga',
+    :ref => 'refactor'
 

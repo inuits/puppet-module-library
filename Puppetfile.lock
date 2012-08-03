@@ -97,6 +97,13 @@ GIT
     postgres (0.0.1)
 
 GIT
+  remote: git://github.com/KrisBuytaert/puppet-pulp.git
+  ref: pulp
+  sha: 962318fe80c733e1a7f481a423259f8d2f018c5b
+  specs:
+    pulp (0.0.1)
+
+GIT
   remote: git://github.com/KrisBuytaert/puppet-sip.git
   ref: master
   sha: 8c7266b0b4b65bdbce42eb979553c15dcef18271
@@ -173,6 +180,13 @@ GIT
   specs:
     concat (0.0.1)
 
+GIT
+  remote: https://github.com/arioch/puppet-icinga
+  ref: refactor
+  sha: c899c9b94816a3e7165084f21e252443b39bf2cb
+  specs:
+    icinga (0.0.1)
+
 DEPENDENCIES
   apache (>= 0)
   autofs (>= 0)
@@ -186,6 +200,7 @@ DEPENDENCIES
   graphite (>= 0)
   grok (>= 0)
   hiera (>= 0)
+  icinga (>= 0)
   jmxtrans (>= 0)
   kibana (>= 0)
   logstash (>= 0)
@@ -193,6 +208,7 @@ DEPENDENCIES
   mcollective (>= 0)
   nrpe (>= 0)
   postgres (>= 0)
+  pulp (>= 0)
   sip (>= 0)
   solr (>= 0)
   statsd (>= 0)
