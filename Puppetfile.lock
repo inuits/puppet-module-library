@@ -1,16 +1,149 @@
 GIT
   remote: git://github.com/Inuits/puppet-apache.git
   ref: master
-  sha: 232928f2c650161fa3e62e1b76dbdc29c199ba56
+  sha: dc4f184b3ebf8fbe8a90b05b709705894ea6afed
   specs:
     apache (0.0.1)
 
 GIT
+  remote: git://github.com/KrisBuytaert/puppet-autofs.git
+  ref: master
+  sha: 5769906b7756f2a62c10fc64da0e8f92758e6c96
+  specs:
+    autofs (0.0.1)
+
+GIT
+  remote: git://github.com/KrisBuytaert/puppet-collectd.git
+  ref: master
+  sha: d3d95e229674bde7247054c41890d24c07f20d82
+  specs:
+    collectd (0.0.1)
+
+GIT
+  remote: git://github.com/KrisBuytaert/puppet-elasticsearch.git
+  ref: master
+  sha: 74537ab4ffa8a1e613041f15d9059e8a5c259914
+  specs:
+    elasticsearch (0.0.1)
+
+GIT
+  remote: git://github.com/KrisBuytaert/puppet-ganglia.git
+  ref: master
+  sha: 86bae24ab7b1de23cdcabc93691da24fafb60327
+  specs:
+    ganglia (0.0.1)
+
+GIT
+  remote: git://github.com/KrisBuytaert/puppet-graphite.git
+  ref: master
+  sha: 99a494d31615fa6c4afc66117d37d6ff3c9dad68
+  specs:
+    graphite (0.0.1)
+
+GIT
+  remote: git://github.com/KrisBuytaert/puppet-grok.git
+  ref: master
+  sha: 0fed18c8580f41c157595afb50a62a9553a9ca35
+  specs:
+    grok (0.0.1)
+
+GIT
+  remote: git://github.com/KrisBuytaert/puppet-hiera.git
+  ref: master
+  sha: 971507e54f4342158a3262bcff0ec86ff1691eaa
+  specs:
+    hiera (0.0.1)
+
+GIT
+  remote: git://github.com/KrisBuytaert/puppet-jmxtrans.git
+  ref: master
+  sha: 9b5c07afcf4e0b18f48346093053a7d46222a19a
+  specs:
+    jmxtrans (0.0.1)
+
+GIT
+  remote: git://github.com/KrisBuytaert/puppet-kibana.git
+  ref: master
+  sha: 8bae0c11c45fbc2816aff4a622ffc7c733e4577c
+  specs:
+    kibana (0.0.1)
+
+GIT
+  remote: git://github.com/KrisBuytaert/puppet-logstash.git
+  ref: master
+  sha: b2b5829fad0e622fe137ed7532a97a7da7be404a
+  specs:
+    logstash (0.0.1)
+
+GIT
+  remote: git://github.com/KrisBuytaert/puppet-logster.git
+  ref: master
+  sha: 1a200f9dfae4f346b7f10f7b8f33076d99670ef8
+  specs:
+    logster (0.0.1)
+
+GIT
+  remote: git://github.com/KrisBuytaert/puppet-mcollective.git
+  ref: master
+  sha: 0b622024ff6034a7cec761bdec9daeec4c7988ed
+  specs:
+    mcollective (0.0.1)
+
+GIT
+  remote: git://github.com/KrisBuytaert/puppet-postgres.git
+  ref: master
+  sha: 819633dfc9ef142ec5d820f94c05f975ec79727d
+  specs:
+    postgres (0.0.1)
+
+GIT
+  remote: git://github.com/KrisBuytaert/puppet-sip.git
+  ref: master
+  sha: 8c7266b0b4b65bdbce42eb979553c15dcef18271
+  specs:
+    sip (0.0.1)
+
+GIT
+  remote: git://github.com/KrisBuytaert/puppet-solr.git
+  ref: master
+  sha: 28653c68816cc6c018c6a4ebc354644bae9519f7
+  specs:
+    solr (0.0.1)
+
+GIT
+  remote: git://github.com/KrisBuytaert/puppet-statsd.git
+  ref: master
+  sha: 7f801701898dec12b578aafa35f7df8fa64f2c05
+  specs:
+    statsd (0.0.1)
+
+GIT
+  remote: git://github.com/KrisBuytaert/puppet-tattle.git
+  ref: master
+  sha: 33d2a65769c0cea48c5952dde184042242ae3ed9
+  specs:
+    tattle (0.0.1)
+
+GIT
+  remote: git://github.com/KrisBuytaert/puppet-wowza.git
+  ref: master
+  sha: 24558a5637b23834e3c33cd7789e849c616289e7
+  specs:
+    wowza (0.0.1)
+
+GIT
   remote: git://github.com/puppetlabs/puppetlabs-stdlib.git
   ref: master
-  sha: e299ac6212b0468426f971b216447ef6bc679149
+  sha: 15e13fb6b93347003aa3d3666baf531be0472418
   specs:
     stdlib (0.0.1)
+
+GIT
+  remote: git://github.com/raskas/puppet-bind.git
+  ref: master
+  sha: 384793fa86ebf9f3e5504213deae64da71f6173c
+  specs:
+    bind (0.0.1)
 
 GIT
   remote: git://github.com/raskas/puppet-dhcp.git
@@ -20,15 +153,51 @@ GIT
     dhcp (0.0.1)
 
 GIT
+  remote: git://github.com/raskas/puppet-nrpe.git
+  ref: master
+  sha: 4a53277f53d914f86017db925517ca6d177a9288
+  specs:
+    nrpe (0.0.1)
+
+GIT
+  remote: git://github.com/raskas/puppet-tomcat.git
+  ref: master
+  sha: ac3f8fb6e8ed5c5daf73764f85d71ce3c755cc5d
+  specs:
+    tomcat (0.0.1)
+
+GIT
   remote: git://github.com/ripienaar/puppet-concat.git
   ref: master
-  sha: 99f3eb83f77ae68664eb2b346df4e4db6f21f1b3
+  sha: a0661e17646fa8e1ec03f813c28d97b64c93019d
   specs:
     concat (0.0.1)
 
 DEPENDENCIES
   apache (>= 0)
+  autofs (>= 0)
+  bind (>= 0)
+  collectd (>= 0)
   concat (>= 0)
   dhcp (>= 0)
+  dhcp (>= 0)
+  elasticsearch (>= 0)
+  ganglia (>= 0)
+  graphite (>= 0)
+  grok (>= 0)
+  hiera (>= 0)
+  jmxtrans (>= 0)
+  kibana (>= 0)
+  logstash (>= 0)
+  logster (>= 0)
+  mcollective (>= 0)
+  nrpe (>= 0)
+  postgres (>= 0)
+  sip (>= 0)
+  solr (>= 0)
+  statsd (>= 0)
   stdlib (>= 0)
+  tattle (>= 0)
+  tomcat (>= 0)
+  wowza (>= 0)
 

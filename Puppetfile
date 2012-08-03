@@ -17,65 +17,65 @@ mod 'graphite',
   :git => 'git://github.com/KrisBuytaert/puppet-graphite.git'
 
 mod 'tomcat',
-    :git => 'git://github.com/raskas/puppet-tomcat'
+    :git => 'git://github.com/raskas/puppet-tomcat.git'
 
 mod 'bind',
-    :git => 'git://github.com/raskas/puppet-bind'
+    :git => 'git://github.com/raskas/puppet-bind.git'
 
 mod 'dhcp',
-    :git => 'git://github.com/raskas/puppet-dhcp'
+    :git => 'git://github.com/raskas/puppet-dhcp.git'
 
 mod 'nrpe',
-    :git => 'git://github.com/raskas/puppet-nrpe'
+    :git => 'git://github.com/raskas/puppet-nrpe.git'
 
 mod 'elasticsearch',
-    :git => 'git://github.com/KrisBuytaert/puppet-elasticsearch'
+    :git => 'git://github.com/KrisBuytaert/puppet-elasticsearch.git'
 
 mod 'postgres',
-    :git => 'git://github.com/KrisBuytaert/puppet-postgres'
+    :git => 'git://github.com/KrisBuytaert/puppet-postgres.git'
 
 mod 'mcollective',
-    :git => 'git://github.com/KrisBuytaert/puppet-mcollective'
+    :git => 'git://github.com/KrisBuytaert/puppet-mcollective.git'
 
 mod 'solr',
-    :git => 'git://github.com/KrisBuytaert/puppet-solr'
+    :git => 'git://github.com/KrisBuytaert/puppet-solr.git'
 
 mod 'ganglia',
-    :git => 'git://github.com/KrisBuytaert/puppet-ganglia'
+    :git => 'git://github.com/KrisBuytaert/puppet-ganglia.git'
 
-mod 'pulp',
-    :git => 'git://github.com/KrisBuytaert/puppet-pulp'
+#mod 'pulp',
+#    :git => 'git@github.com:KrisBuytaert/puppet-pulp.git'
 
 mod 'logstash',
-    :git => 'git://github.com/KrisBuytaert/puppet-logstash'
+    :git => 'git://github.com/KrisBuytaert/puppet-logstash.git'
 
 mod 'kibana',
-    :git => 'git://github.com/KrisBuytaert/puppet-kibana'
+    :git => 'git://github.com/KrisBuytaert/puppet-kibana.git'
 
 mod 'collectd',
-    :git => 'git://github.com/KrisBuytaert/puppet-collectd'
+    :git => 'git://github.com/KrisBuytaert/puppet-collectd.git'
 
 mod 'tattle',
-    :git => 'git://github.com/KrisBuytaert/puppet-tattle'
+    :git => 'git://github.com/KrisBuytaert/puppet-tattle.git'
 
 mod 'grok',
-    :git => 'git://github.com/KrisBuytaert/puppet-grok'
+    :git => 'git://github.com/KrisBuytaert/puppet-grok.git'
 
 mod 'jmxtrans',
-    :git => 'git://github.com/KrisBuytaert/puppet-jmxtrans'
+    :git => 'git://github.com/KrisBuytaert/puppet-jmxtrans.git'
 
 mod 'statsd',
-    :git => 'git://github.com/KrisBuytaert/puppet-statsd'
+    :git => 'git://github.com/KrisBuytaert/puppet-statsd.git'
 
 mod 'autofs',
-    :git => 'git://github.com/KrisBuytaert/puppet-autofs'
+    :git => 'git://github.com/KrisBuytaert/puppet-autofs.git'
 
 mod 'sip',
-    :git => 'git://github.com/KrisBuytaert/puppet-sip'
+    :git => 'git://github.com/KrisBuytaert/puppet-sip.git'
 
 mod 'logster',
-    :git => 'git://github.com/KrisBuytaert/puppet-logster'
+    :git => 'git://github.com/KrisBuytaert/puppet-logster.git'
 
 mod 'wowza',
-    :git => 'git://github.com/KrisBuytaert/puppet-wowza'
+    :git => 'git://github.com/KrisBuytaert/puppet-wowza.git'
 
