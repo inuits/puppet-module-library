@@ -22,9 +22,6 @@ mod 'tomcat',
 mod 'bind',
     :git => 'git://github.com/raskas/puppet-bind.git'
 
-mod 'dhcp',
-    :git => 'git://github.com/raskas/puppet-dhcp.git'
-
 mod 'nrpe',
     :git => 'git://github.com/raskas/puppet-nrpe.git'
 
