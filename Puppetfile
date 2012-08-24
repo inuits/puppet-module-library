@@ -80,3 +80,6 @@ mod 'wowza',
 mod 'icinga',
     :git => 'https://github.com/arioch/puppet-icinga'
 
+mod 'percona',
+    :git => 'https://github.com/arioch/puppet-percona'
+

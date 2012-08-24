@@ -187,6 +187,13 @@ GIT
   specs:
     icinga (0.0.1)
 
+GIT
+  remote: https://github.com/arioch/puppet-percona
+  ref: master
+  sha: db2dc1c53532df2e5a9c5b5b41b506ad6e16f001
+  specs:
+    percona (0.0.1)
+
 DEPENDENCIES
   apache (>= 0)
   autofs (>= 0)
@@ -206,6 +213,7 @@ DEPENDENCIES
   logster (>= 0)
   mcollective (>= 0)
   nrpe (>= 0)
+  percona (>= 0)
   postgres (>= 0)
   pulp (>= 0)
   sip (>= 0)
