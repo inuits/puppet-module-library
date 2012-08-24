@@ -78,6 +78,5 @@ mod 'wowza',
     :git => 'git://github.com/KrisBuytaert/puppet-wowza.git'
 
 mod 'icinga',
-    :git => 'https://github.com/arioch/puppet-icinga',
-    :ref => 'refactor'
+    :git => 'https://github.com/arioch/puppet-icinga'
 

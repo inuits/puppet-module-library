@@ -182,8 +182,8 @@ GIT
 
 GIT
   remote: https://github.com/arioch/puppet-icinga
-  ref: refactor
-  sha: c899c9b94816a3e7165084f21e252443b39bf2cb
+  ref: master
+  sha: e01324dda5eb3896ca045da985e3dd200c0267cf
   specs:
     icinga (0.0.1)
 
@@ -193,7 +193,6 @@ DEPENDENCIES
   bind (>= 0)
   collectd (>= 0)
   concat (>= 0)
-  dhcp (>= 0)
   dhcp (>= 0)
   elasticsearch (>= 0)
   ganglia (>= 0)
